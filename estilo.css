@@ -1,0 +1,87 @@
+body
+{
+	background-color: #000000;
+}
+
+#divGeneral
+{
+	text-align: center;
+}
+
+#tituloInicio
+{
+	text-align: center;
+	color: black;
+	font-family: "Segoe UI";
+}
+
+#formularioLogin
+{
+	margin-left: 35%;
+	margin-right: 35%;
+	margin-top: 40px;
+	background-color: white;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-family: "Segoe UI";
+	border-radius: 30px;
+	min-width: 400px;
+	min-height: 320px;
+	max-width: 400px;
+	max-height: 320px;
+}
+
+#formularioRegistro
+{
+	margin-left: 35%;
+	margin-right: 35%;
+	margin-top: 40px;
+	background-color: white;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-family: "Segoe UI";
+	border-radius: 30px;
+	min-width: 400px;
+	min-height: 320px;
+	max-width: 400px;
+	max-height: 400px;
+}
+
+#formularioPerfil
+{
+	margin-left: 35%;
+	margin-right: 35%;
+	margin-top: 40px;
+	background-color: white;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	font-family: "Segoe UI";
+	border-radius: 30px;
+	min-width: 400px;
+	min-height: 500px;
+	max-width: 400px;
+	max-height: 500px;
+}
+
+
+input
+{
+	margin-bottom: 30px;
+}
+
+.boton
+{
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  cursor: pointer;
+  margin: 5px;
+}
